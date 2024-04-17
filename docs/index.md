@@ -1,4 +1,4 @@
 # Index
-This is the index page
+This is the index page - updated
 
 [About](about.html)
