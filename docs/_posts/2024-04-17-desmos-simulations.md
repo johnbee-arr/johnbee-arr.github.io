@@ -11,9 +11,9 @@ One of the motivations for my career switch has come from creating [desmos](http
 Here are a few I have made with descriptions. They are free to copy and play around with.
 
 ## [Poisson distributions as a limit of the binomial](https://www.desmos.com/calculator/vare6rugow)
-This file simulates both a binomial and Poisson distribution with the same expected value. It demonstrates the property that a binomial distribution tends to a Poisson as $n \rightarrow \infty$
+This file simulates both a binomial and Poisson distribution with the same expected value. It demonstrates the property that a binomial distribution tends to a Poisson as n tends to infinity.
 
-![poisson and binomial](../imgs/poisson_binomial_desmos.png)
+![poisson and binomial](/docs/imgs/poisson_binomial_desmos.png)
 
 
 This section has some `code` in it
