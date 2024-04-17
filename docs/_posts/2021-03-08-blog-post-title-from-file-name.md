@@ -11,6 +11,6 @@ Testing.
 This section has some `code` in it
 
 ```
-def this_is_a_code_block(input)
+def this_is_a_code_block(input):
   print(input)
 ```
