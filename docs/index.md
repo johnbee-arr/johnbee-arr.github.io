@@ -1,9 +1,6 @@
-# Index
-This is the index page - updated
+# Welcome
 
 [About](about.html)
-
-[First Post](/posts/first_post.html)
 
 <h1>Blog Posts</h1>
 <ul>
