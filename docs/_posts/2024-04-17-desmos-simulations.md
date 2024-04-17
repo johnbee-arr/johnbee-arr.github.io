@@ -1,7 +1,8 @@
 ---
 layout: post
-title: My First Blog Post
+title: Desmos Simulations
 date: 2024-04-17
+description: A look over some desmos simulations I have made.
 ---
 
 Testing.
