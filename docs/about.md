@@ -1,6 +1,6 @@
 # About
 
-[Home](johnbee-arr.github.io/index.html)
+[Home](johnbee-arr.github.io/)
 
 ## John Brennan-Rhodes
 
