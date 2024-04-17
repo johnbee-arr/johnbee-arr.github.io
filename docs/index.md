@@ -12,6 +12,7 @@ layout: default
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <span>{{ post.date | date: "%B %d, %Y" }}</span>
+      {{post.description}}
     </li>
   {% endfor %}
 </ul>
